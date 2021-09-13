@@ -6,7 +6,7 @@ import statisticEvents from "./statistics/events.js"
 import statisticCalculation from "./statistics/calculation.js"
 
 const info = {
-    itframeURL: config.itframeURL || "https://itframe.innovatete.ch",
+    itframeURL: config.itframeURL || "https://itframe.unmutedte.ch",
     username: config.username,
     key: (config.internal.statistics || {}).key,
 }
