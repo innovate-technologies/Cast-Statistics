@@ -1,6 +1,6 @@
 import proxy from "http-proxy-middleware"
 const info = {
-    itframeURL: config.itframeURL || "https://itframe.innovatete.ch",
+    itframeURL: config.itframeURL || "https://itframe.unmutedte.ch",
     username: config.username,
     key: (config.internal.statistics || {}).key,
 }
